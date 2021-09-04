@@ -1,0 +1,104 @@
+/* Write your CSS here */
+.card1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  padding: 60px;
+  width: 100%;
+  border-radius: 40px;
+}
+.span {
+  color: #0b69ff;
+}
+.heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #475569;
+  margin-top: 80px;
+}
+.para {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #7e858e;
+}
+.bg {
+  padding: 150px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  border: 2px solid #cbd5e1;
+  margin-top: 30px;
+  padding: 30px;
+  border-radius: 20px;
+}
+.input {
+  width: 200px;
+  margin-bottom: 20px;
+  outline: none;
+  font-family: 'Roboto';
+}
+.para1 {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #475569;
+}
+
+.ul {
+  list-style-type: none;
+}
+.trans-list {
+  width: 600px;
+  border: 2px solid #cbd5e1;
+  padding: 30px;
+  border-radius: 20px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.para2 {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #475569;
+  font-size: 20px;
+}
+.his {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #475569;
+  font-size: 20px;
+  margin-left: 40px;
+}
+.button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-radius: 2px;
+  border-width: 0px;
+  font-size: 12px;
+  width: 50px;
+  height: 35px;
+}
+.container2 {
+  display: flex;
+  justify-content: space-between;
+}
+.box {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  width: 30%;
+  border-right: none;
+}
+.list1 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 48px;
+  list-style-type: none;
+  border: 1px solid #cbd5e1;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.label {
+  font-family: 'Roboto';
+  font-weight: 500;
+}

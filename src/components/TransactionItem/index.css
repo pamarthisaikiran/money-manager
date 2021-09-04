@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.li-para2 {
+  margin-left: 30px;
+  color: black;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.list1 {
+  display: flex;
+  justify-content: flex-start;
+  border: 2px solid #cbd5e1;
+}
+.delete-icon {
+  background: transparent;
+  width: 20px;
+  height: 20px;
+  align-self: center;
+  border: none;
+  outline: none;
+}
+.button3 {
+  background-color: transparent;
+  border-width: 0px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.list-row {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #cbd5e1;
+  border-left: 1px solid #cbd5e1;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.list-text {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 30%;
+}
